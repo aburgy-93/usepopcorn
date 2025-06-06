@@ -1,4 +1,4 @@
-import { Movie } from "../App";
+import { Movie } from "./Movie";
 
 /*
 // Stateful
